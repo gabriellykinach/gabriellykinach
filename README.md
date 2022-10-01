@@ -7,5 +7,5 @@
 <!---
 gabriellykinach/gabriellykinach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-https://picrew.me/share?cd=nN4WUBRKuK
+
+Picrewの「AmphyPop Doll Maker」でつくったよ！ https://picrew.me/share?cd=nN4WUBRKuK #Picrew #AmphyPop_Doll_Maker
